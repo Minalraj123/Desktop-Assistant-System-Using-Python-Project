@@ -5,7 +5,7 @@
 ![191219143135-apple-face-id-stock](https://github.com/user-attachments/assets/e859d7e3-00e4-4ab3-b6d6-2e25bcb93c87)
  **Develop**:an intelligent desktop assistant using Python to perform basic tasks through voice commands.
  **Description**
-![iStock-1325280083-scaled-e1653040090186-1024x568](https://github.com/user-attachments/assets/3109563d-8597-4266-a20e-18d436312260)
+
 **Voice recognition**: Use the SpeechRecognition library to interpret and process user commands.
 Text-to-speech: Implement pyttsx3 or gTTS to provide voice responses.
 Task automation: Automate tasks like opening applications (browser, media player, etc.), searching the web, setting reminders, and more.
@@ -15,7 +15,7 @@ Respond with current time and date.
 **Email handling:** Send and read emails using smtplib and imaplib.
 **Wikipedia integration:** Retrieve information from Wikipedia using the wikipedia module.
 **Math calculations:** Handle basic arithmetic or more complex computations.
-Optional Advanced Features:
+![iStock-1325280083-scaled-e1653040090186-1024x568](https://github.com/user-attachments/assets/3109563d-8597-4266-a20e-18d436312260)
 
 **Natural language processing (NLP):** Enhance the assistant’s understanding using spaCy or NLTK.
 Machine learning integration: Improve response accuracy by learning from user preferences over time.
