@@ -1,7 +1,8 @@
 # Desktop-Assistant-System-Using-Python-Project
 
 
-![191219143135-apple-face-id-stock](https://github.com/user-attachments/assets/6fd3f16c-8c37-4138-9887-8289b2f609d3)
+
+![191219143135-apple-face-id-stock](https://github.com/user-attachments/assets/e859d7e3-00e4-4ab3-b6d6-2e25bcb93c87)
  **Develop**:an intelligent desktop assistant using Python to perform basic tasks through voice commands.
 
 **Description**
