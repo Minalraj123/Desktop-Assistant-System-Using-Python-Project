@@ -1,5 +1,5 @@
 # Desktop-Assistant-System-Using-Python-Project
-![Uploading image.png…]()
+
 
 **Develop**: an intelligent desktop assistant using Python to perform basic tasks through voice commands.
 
