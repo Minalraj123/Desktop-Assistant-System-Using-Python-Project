@@ -1,5 +1,6 @@
 # Desktop-Assistant-System-Using-Python-Project
-https://media.cnn.com/api/v1/images/stellar/prod/191219143135-apple-face-id-stock.jpg?q=w_1110,c_fill
+![Uploading image.png…]()
+
 **Develop**: an intelligent desktop assistant using Python to perform basic tasks through voice commands.
 
 **Description**
