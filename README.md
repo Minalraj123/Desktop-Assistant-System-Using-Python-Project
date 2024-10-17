@@ -1,5 +1,5 @@
 # Desktop-Assistant-System-Using-Python-Project
-
+https://extrudesign.com/wp-content/uploads/2021/07/Virtual-Assistant-Using-Python-extrudesign.com-SC21041001.jpg
 
 **Develop**: an intelligent desktop assistant using Python to perform basic tasks through voice commands.
 
