@@ -24,8 +24,8 @@ Machine learning integration: Improve response accuracy by learning from user pr
 ![240_F_589388610_Yiv2GLBAfVElYOxQTmLnASN7KQTn5Dl3](https://github.com/user-attachments/assets/67ac1f49-7788-43eb-b72f-ee3a9ef44a9c)
 
 **Home automation:** Control smart home devices with integration into APIs like Home Assistant or IFTTT.
-![Uploading Home Automation.png…]()
 
+![home-automation-](https://github.com/user-attachments/assets/c510189d-4af4-4439-a603-3ac08c5b29d6)
 
 **GUI:** Add a graphical user interface using Tkinter or PyQt for users who prefer a visual interface.
 **Libraries/Tools:**
