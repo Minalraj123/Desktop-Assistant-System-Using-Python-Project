@@ -28,8 +28,9 @@ Machine learning integration: Improve response accuracy by learning from user pr
 ![home-automation-](https://github.com/user-attachments/assets/c510189d-4af4-4439-a603-3ac08c5b29d6)
 
 **GUI:** Add a graphical user interface using Tkinter or PyQt for users who prefer a visual interface.
-**Libraries/Tools:**
 
+![How-UI-and-UX-Can-Make-or-Break-Your-Web-or-Mobile-Application-1024x674](https://github.com/user-attachments/assets/91e0edf7-73a2-4f4c-821e-80bcd7b7b83c)
+**Libraries/Tools:**
 SpeechRecognition for speech input.
 pyttsx3 or gTTS for speech output.
 os module for opening applications and system-level commands.
