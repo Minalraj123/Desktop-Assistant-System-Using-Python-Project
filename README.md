@@ -4,8 +4,8 @@
 
 ![191219143135-apple-face-id-stock](https://github.com/user-attachments/assets/e859d7e3-00e4-4ab3-b6d6-2e25bcb93c87)
  **Develop**:an intelligent desktop assistant using Python to perform basic tasks through voice commands.
-
-**Description**
+ **Description**
+![621ff0aca44f2933e683561d_Speech Recognition Technology in the workplace](https://github.com/user-attachments/assets/c8cc9c6f-21a5-4d64-a9e1-091345fea590)
 
 **Voice recognition**: Use the SpeechRecognition library to interpret and process user commands.
 Text-to-speech: Implement pyttsx3 or gTTS to provide voice responses.
