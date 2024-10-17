@@ -20,7 +20,8 @@ Respond with current time and date.
 **Natural language processing (NLP):** Enhance the assistant’s understanding using spaCy or NLTK.
 Machine learning integration: Improve response accuracy by learning from user preferences over time.
 
-![240_F_851506174_Uu4HqangTWpopZ5tcZk5ZcAP8FipRMnO](https://github.com/user-attachments/assets/761c0e78-f844-4467-9e6b-9f80bff8d0aa)
+
+![240_F_589388610_Yiv2GLBAfVElYOxQTmLnASN7KQTn5Dl3](https://github.com/user-attachments/assets/67ac1f49-7788-43eb-b72f-ee3a9ef44a9c)
 
 **Home automation:** Control smart home devices with integration into APIs like Home Assistant or IFTTT.
 **GUI:** Add a graphical user interface using Tkinter or PyQt for users who prefer a visual interface.
